@@ -20,8 +20,8 @@ body {
   position: relative;
   background-color: hsl(185, 75%, 39%);
 
-  background-image: url(../images/bg-pattern-top.svg),
-    url(../images/bg-pattern-bottom.svg);
+  background-image: url(images/bg-pattern-top.svg),
+    url(images/bg-pattern-bottom.svg);
   background-position: right 55vw bottom 40vh, left 45vw top 55vh;
   background-repeat: no-repeat;
 }
