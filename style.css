@@ -38,6 +38,8 @@ body {
   background-color: #fff;
   border-radius: 2rem;
   overflow: hidden;
+
+  box-shadow: 0 0.2rem 1.5rem hsl(229, 23%, 23%,0.4);
 }
 
 .user-details-box {
